@@ -1,8 +1,8 @@
 'use strict';
 var SabreDevStudio = require('sabre-dev-studio');
 var sabreDevStudio = new SabreDevStudio({
-  client_id:     'V1:2wsxopvowhfw47bw:DEVCENTER:EXT',
-  client_secret: '0h8kNNHa',
+  client_id:     'V1:0ypvzsxqheoad4u7:DEVCENTER:EXT',
+  client_secret: 'Sc9yFG4c',
   uri:           'https://api.test.sabre.com'
 });
 var options = {};
